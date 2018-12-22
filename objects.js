@@ -12,4 +12,5 @@ const updatePlaylist = (playlist, artistName, songTitle) => {
 
 const removeFromPlaylist = (playlist, artistName) => {
   
+  return playlist;
 };
