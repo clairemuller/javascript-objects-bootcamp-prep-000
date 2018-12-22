@@ -9,6 +9,7 @@ const updatePlaylist = (playlist, artistName, songTitle) => {
 
 updatePlaylist(playlist, 'Slowdive', 'Alison');
 updatePlaylis(playlist, 'My Bloody Valentine', 'Sometimes');
+updatePlaylis(playlist, 'My Bloody Valentine', 'Sometimes');
 
 
 const removeFromPlaylist = (playlist, artistName) => {
