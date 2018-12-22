@@ -5,7 +5,7 @@ const playlist = {
 
 
 const updatePlaylist = (playlist, artistName, songTitle) => {
-  Object.assign({}, playlist, {artistName: songTitle})
+  Object.assign(playlist, {artistName: songTitle})
   return playlist;
 };
 
