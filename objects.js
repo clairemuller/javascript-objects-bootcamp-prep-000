@@ -1,5 +1,6 @@
 var playlist = {
-  'ArianaGrande': "Thank u Next",
+  'Slowdive': 'Alison'
+  'My Bloody Valentine':'Sometimes;
 };
 
 const updatePlaylist = (playlist, artistName, songTitle) => {
