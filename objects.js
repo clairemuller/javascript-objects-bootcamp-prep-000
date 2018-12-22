@@ -1,6 +1,6 @@
 var playlist = {
   Slowdive: "Alison",
-  KaceyMusgraves: "Golden Hour",
+  My: "Golden Hour",
   TaylorSwift: "Red",
   Drake: "Views"
 };
