@@ -1,3 +1,3 @@
 var playlist = {
-  ArianaGrande
+  ArianaGrande: ''
 }
