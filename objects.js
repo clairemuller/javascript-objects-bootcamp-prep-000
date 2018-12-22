@@ -4,8 +4,8 @@ var playlist = {
 };
 
 const updatePlaylist = (playlist, artistName, songTitle) => {
-  const playlist2 = Object.assign({}, playlist, {artistName: songTitle})
-  return playlist2;
+  playlist = Object.assign({}, playlist, {artistName: songTitle})
+  return playlist;
 };
 
 updatePlaylist(playlist, 'Phil Ochs', "Here's to the State of Mississippi");
