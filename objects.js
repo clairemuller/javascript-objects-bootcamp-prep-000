@@ -8,10 +8,6 @@ const updatePlaylist = (playlist, artistName, songTitle) => {
   return playlist;
 };
 
-updatePlaylist(playlist, 'Slowdive', 'Alison');
-updatePlaylis(playlist, 'My Bloody Valentine', 'Sometimes');
-updatePlaylis(playlist, 'My Bloody Valentine', 'Sometimes');
-
 
 /*
   describe('updatePlaylist(playlist, artistName, songTitle)', () => {
