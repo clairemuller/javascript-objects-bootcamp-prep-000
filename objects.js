@@ -4,3 +4,7 @@ var playlist = {
   TaylorSwift: "Red",
   Drake: "Views"
 };
+
+const updatePlaylist = () => {
+  
+};
