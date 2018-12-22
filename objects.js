@@ -8,6 +8,7 @@ const updatePlaylist = (playlist, artistName, songTitle) => {
   return playlist;
 };
 
+updatePlaylist(playlist, 'Phil Ochs', '');
 
 /*
   describe('updatePlaylist(playlist, artistName, songTitle)', () => {
