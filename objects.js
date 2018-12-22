@@ -3,4 +3,4 @@ var playlist = {
   KaceyMusgraves: "Golden Hour",
   TaylorSwift: "Red",
   Drake: "Views"
-}
+};
