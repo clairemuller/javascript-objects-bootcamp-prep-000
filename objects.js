@@ -1,5 +1,5 @@
 var playlist = {
-  ArianaGrande: "Thank U Next",
+  Slowdive: "Alison",
   KaceyMusgraves: "Golden Hour",
   TaylorSwift: "Red",
   Drake: "Views"
