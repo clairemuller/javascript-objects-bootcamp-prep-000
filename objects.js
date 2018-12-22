@@ -3,7 +3,7 @@ const playlist = {
   'My Bloody Valentine': 'Sometimes'
 };
 
-
+const object2 = Object.assign({c: 4, d: 5}, object1);
 
 /*
 const updatePlaylist = (playlist, artistName, songTitle) => {
