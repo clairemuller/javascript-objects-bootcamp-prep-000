@@ -5,6 +5,6 @@ var playlist = {
   Drake: "Views"
 };
 
-const updatePlaylist = () => {
+const updatePlaylist = (playlist, artistName, songTitle) => {
   
 };
