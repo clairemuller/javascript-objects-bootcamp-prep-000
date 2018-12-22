@@ -10,6 +10,6 @@ const updatePlaylist = (playlist, artistName, songTitle) => {
 
 
 const removeFromPlaylist = (playlist, artistName) => {
-  delete playlist.[artistName];
+  delete playlist.artistName;
   return playlist;
 };
