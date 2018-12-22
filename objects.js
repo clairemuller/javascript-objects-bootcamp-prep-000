@@ -1,6 +1,5 @@
 var playlist = {
-  'Slowdive': "Alison",
-  'My Bloody Valentine': "Sometimes",
+  'ArianaGrande': "Thank u Next",
 };
 
 const updatePlaylist = (playlist, artistName, songTitle) => {
@@ -8,7 +7,9 @@ const updatePlaylist = (playlist, artistName, songTitle) => {
   return playlist;
 };
 
-updatePlaylist()
+updatePlaylist(playlist, 'Slowdive', 'Alison');
+updatePlaylis(playlist, 'My Bloody Valentine', 'Sometimes');
+
 
 const removeFromPlaylist = (playlist, artistName) => {
   delete playlist.artistName;
