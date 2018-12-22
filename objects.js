@@ -8,6 +8,8 @@ const updatePlaylist = (playlist, artistName, songTitle) => {
   return playlist;
 };
 
+updatePlaylist()
+
 const removeFromPlaylist = (playlist, artistName) => {
   delete playlist.artistName;
   return playlist;
