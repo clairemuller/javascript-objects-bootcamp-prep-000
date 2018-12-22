@@ -8,8 +8,9 @@ const updatePlaylist = (playlist, artistName, songTitle) => {
   return playlist;
 };
 
+/*
 updatePlaylist(playlist, 'Phil Ochs', "Here's to the State of Mississippi");
-
+*/
 
 /*
 const removeFromPlaylist = (playlist, artistName) => {
