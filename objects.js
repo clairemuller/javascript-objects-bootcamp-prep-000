@@ -9,6 +9,6 @@ const updatePlaylist = (playlist, artistName, songTitle) => {
   Object.assign({}, playlist, {artistName: songTitle})
 };
 
-const removeFromPlaylist = () => {
+const removeFromPlaylist = (playlist, artistName) => {
   
 };
