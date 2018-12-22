@@ -1,4 +1,5 @@
 var playlist = {
   ArianaGrande: "Thank U Next",
-  KaceyMusgraves: ""
+  KaceyMusgraves: "Golden Hour",
+  TaylorSwift: ""
 }
