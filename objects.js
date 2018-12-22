@@ -1,8 +1,6 @@
 var playlist = {
-  Slowdive: "Alison",
-  My: "Sometimes",
-  TaylorSwift: "Red",
-  Drake: "Views"
+  'Slowdive': "Alison",
+  'My Bloody Valentine': "Sometimes",
 };
 
 const updatePlaylist = (playlist, artistName, songTitle) => {
